@@ -1,0 +1,14 @@
+февр. 16, 2024 6:15:18 PM ru.fortune_dongeon.game.register_and_auth.api.Main main
+INFO: Старт приложения
+февр. 16, 2024 7:13:55 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: TEST 
+февр. 16, 2024 7:17:36 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: START APP 
+февр. 16, 2024 7:17:36 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: init model 
+февр. 16, 2024 7:17:36 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: init controller 
+февр. 16, 2024 7:17:36 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: Init view
+февр. 16, 2024 7:17:45 PM ru.fortune_dongeon.game.register_and_auth.api.InitApp init
+INFO: User enter parameter is + in operation
